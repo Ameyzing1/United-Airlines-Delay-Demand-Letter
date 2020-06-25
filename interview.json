@@ -1,0 +1,20 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "text",
+     "name": "FirstName",
+     "title": "First Name"
+    },
+    {
+     "type": "text",
+     "name": "LastName",
+     "title": "Last Name"
+    }
+   ],
+   "title": "United Airlines Flight Delay Demand"
+  }
+ ]
+}
