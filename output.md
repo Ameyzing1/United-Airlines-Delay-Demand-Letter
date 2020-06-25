@@ -17,7 +17,7 @@ RE: Delayed Flight {{AirlineFlightNumber}}
 
 To whom it may concern,  
 
-My name is  {{FirstName}} {{LastName}} and I was a passenger on an {{{AirlineName}} flight, Flight # {{{AirlineFlightNumber}}. This was a {{DomesticOrInternational}} flight. The flight was scheduled to depart from {{FlightDepartureCity}} at {{FlightDepartureTime}} and arrive at {{FlightArrivalCity}} at {{FlightArrival Time}} on {{Flight Date}}. However the flight was delayed by {{HoursDelayed}} and did not arrive until {{ActualArrivalTime}}.
+My name is  {{FirstName}} {{LastName}} and I was a passenger on an {{AirlineName}} flight, Flight # {{AirlineFlightNumber}}. This was a {{DomesticOrInternational}} flight. The flight was scheduled to depart from {{FlightDepartureCity}} at {{FlightDepartureTime}} and arrive at {{FlightArrivalCity}} at {{FlightArrival Time}} on {{Flight Date}}. However the flight was delayed by {{HoursDelayed}} and did not arrive until {{ActualArrivalTime}}.
 
 
 In accordance with the Rules of the American Airlines Contract of Carriage, I herewith assert the following claims:
